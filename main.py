@@ -2,7 +2,6 @@ import numpy as np
 import argparse
 import cv2
 
-INPUT_FILE = "horses.jpg"
 LABELS_FILE = "weights/coco.names"
 CONFIG_FILE = "weights/yolov3.cfg"
 WEIGHTS_FILE = "weights/yolov3.weights"
